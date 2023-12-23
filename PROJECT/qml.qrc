@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Back.qml</file>
+        <file>assets/ep_back.svg</file>
+        <file>PetImage_PetPage.qml</file>
+        <file>PetPage.qml</file>
+        <file>StarLike.qml</file>
+        <file>assets/star_pet_page_active.svg</file>
+        <file>TextMeButton.qml</file>
+        <file>assets/profile.svg</file>
+        <file>assets/starred.svg</file>
+        <file>assets/chats.svg</file>
+        <file>assets/home.svg</file>
+        <file>MyButton.qml</file>
+        <file>assets/mdi_location.svg</file>
+        <file>assets/star_pet_page.svg</file>
+        <file>assets/melissa.png</file>
+        <file>assets/activeStar.svg</file>
+        <file>assets/ava.svg</file>
+        <file>assets/cat.jpg</file>
+        <file>assets/paws.svg</file>
+        <file>assets/star.svg</file>
+        <file>ProfileCard.qml</file>
+        <file>UserPage.qml</file>
+        <file>HomePage.qml</file>
+        <file>assets/dog.jpg</file>
+        <file>assets/dog.svg</file>
+        <file>assets/other.jpg</file>
+        <file>assets/other.svg</file>
+        <file>Card.qml</file>
+        <file>assets/cat.svg</file>
+        <file>FavoriteCard.qml</file>
+        <file>FavoritesPage.qml</file>
+        <file>AddPetPage.qml</file>
+        <file>InputBlock.qml</file>
+        <file>UserForm.qml</file>
+        <file>DialogPage.qml</file>
+        <file>ContactItem.qml</file>
+        <file>Message.qml</file>
+        <file>SendButton.qml</file>
+        <file>OwnerPage.qml</file>
+    </qresource>
+</RCC>
